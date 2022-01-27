@@ -4,7 +4,7 @@
 
 <br/>
 <p align="left">
-  <img width="49.5%"  src="https://github-readme-stats.vercel.app/api/?username=NehilKoshiya&theme=prussian&show_icons=true&count_private=true&hide_border=true"/>
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NehilKoshiya&theme=prussian&hide_border=true" />
+  <img width="49.5%"  src="https://github-readme-stats.vercel.app/api/?username=gopaldhola99&theme=prussian&show_icons=true&count_private=true&hide_border=true"/>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopaldhola99&theme=prussian&hide_border=true" />
 </p>
 <br>

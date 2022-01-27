@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @gopaldhola99
-- 👀 I’m working in Flutter App Development
-- 🌱 I’m currently learning all latest technologies
-- 💞️ I’m looking to collaborate with creative minds...
-- 📫 Contact me: gopaldhola99@gmail.com
+<h1 align='center'>Hi there 👋🏻</h1>
 
-<!---
-gopaldhola99/gopaldhola99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align='center'>I am a Software Engineer focused on Flutter 🔥 </p>
+
+<br/>
+<p align="left">
+  <img width="49.5%"  src="https://github-readme-stats.vercel.app/api/?username=NehilKoshiya&theme=prussian&show_icons=true&count_private=true&hide_border=true"/>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NehilKoshiya&theme=prussian&hide_border=true" />
+</p>
+<br>
